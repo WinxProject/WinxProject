@@ -1,6 +1,6 @@
 - 👋 Ola somos a equipe @WinxProject
 - 👀 Somos estudantes de codigos e amantes de tecnologias
-- 🌱 Nossos fortes ESTUDAR, LE e APRETICAR
+- 🌱 Nossos forte ESTUDAR, LE e APRETICAR
 - 💞 Venha sempre que desejar aqui
 
 <!---
